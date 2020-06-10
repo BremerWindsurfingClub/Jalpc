@@ -12,8 +12,8 @@ img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/asset
 # author -- index page "about me" section
 author:  # change following line to your infomation.
   name: BWC  # Be used at blog posts' author.
-  first_name: Isaac  # Be used at index page about me section.
-  last_name: Puch Rojo  # Be used at index page about me section.
+  first_name: Bremer  # Be used at index page about me section.
+  last_name: Windsurfing Club  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: BremerWindsurfingClub  # Leave blank if you don't have now
   linkedin_id:  # Leave blank if you don't have now
@@ -40,8 +40,8 @@ Unser Vereinsgelände ist am Westufer des Bremer Stadtwaldsees (Unisee) angesied
 "
 
 # comment
-disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: jalpc
+#disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
+#  name: jalpc
 
 # analytics
 ## google analytics
