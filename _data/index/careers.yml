@@ -16,6 +16,20 @@
   present: true
 
 - name:
+    detail: Satzung 
+    i18n:  Satzung 
+  desc:
+    detail: Neue Satzung des BWC 
+    i18n: Satzung
+  date:
+    detail: 01.02.2020
+    i18n: 01.02.2020
+  job:
+    detail: <a href="http://bremerwindsurfing.de/pdf/BWC-Satzung-2020.02.01.pdf">Satzung.pdf</a>
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
     detail: Neue Webseite
     i18n: company_b
   desc:
