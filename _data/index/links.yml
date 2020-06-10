@@ -16,3 +16,23 @@
   desc: COO
   website: https://github.com
   email: coo@google.com
+
+- last_name: Surfshop
+  first_name: Charchulla
+  desc: Surfschule und Surfshop in Bremen
+  website: http://www.surfshop-charchulla.de/Charchulla_Bremen/Start_boarding.html
+  email: info@surfshop-charchulla.de
+ 
+- last_name: Daily 
+  first_name: Dose
+  desc: Das Windsurf Magazin im Internet
+  website: https://www.dailydose.de/
+  email: info@dailydose.de
+  
+- last_name: Surf 
+  first_name: Forum
+  desc: Windsurfer's & Kitesurfer's Home
+  website: http://surf-forum.com/
+
+  
+  
