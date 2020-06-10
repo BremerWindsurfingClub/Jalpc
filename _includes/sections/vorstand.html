@@ -20,11 +20,12 @@
         <div class="team-member">
             <h4><span class="navy">{{ vorstand.funktion }}</span> </h4>
             <h4>{{ vorstand.name }}</h4>
+            <h5>{{ vorstand.tel }}</h5>
             <p>{{ vorstand.desc }}</p>
             <ul class="list-inline social-icon">
                 <li><img src="{{ vorstand.foto }}" alt="-" width="80" height="80">
                 </li>
-                <li><a href="mailto:{{ vorstand.email }}">{{ vorstand.email }} <i class="fa fa-envelope-o"></i></a>
+                <li><a href="mailto:{{ vorstand.email }}"><i class="fa fa-envelope-o"></i></a>
                 </li>
             </ul>
         </div>
